@@ -43,7 +43,7 @@
 
 
 #define SELECT_MP3_DECODER 1
-#define SELECT_AAC_DECODER 1
+#define SELECT_AAC_DECODER 2
 
 #if defined SELECT_AAC_DECODER
 #include "aac_decoder.h"
